@@ -1,6 +1,29 @@
 import React, { useState, useEffect } from "react";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Web3 from "web3";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 import PatientRegistry from "./components/PatientRegistration";
 import LoginPage from "./components/LoginPage";
 import PatientDashBoard from "./components/PatientDashBoard";

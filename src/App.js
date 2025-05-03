@@ -1,5 +1,15 @@
 import BrowseRouter from "./BrowseRouter";
 
+
+
+
+
+
+
+
+
+
+
 import { library } from "@fortawesome/fontawesome-svg-core";
 import {
   faInstagram,
@@ -15,6 +25,14 @@ function App() {
       <BrowseRouter></BrowseRouter>
     </div>
   );
+
+
+
+
+
+
+
+  
 }
 
 export default App;
